@@ -11,3 +11,5 @@ It's going fine, When I make time to look at the material I find that the *infor
    - I want **SPRING**!
 
 [Hopefully Sam's Prediction is Correct](https://www.waff.com/2025/01/31/sand-mountain-sam-predicts-an-early-spring-2025/)
+
+![Sam](./img/sam.jpg)
