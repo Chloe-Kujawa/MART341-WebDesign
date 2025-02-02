@@ -3,7 +3,7 @@
 
 It's going fine, When I make time to look at the material I find that the *information is interesting*, but the information starts to *blur together* after a while so I try to take frequent breaks. I also found it hard to remember when to do my work when it's *not in my Canvas Dashboard*. I was also *behind on my quizzes* which I'm sorry about, I finally caught up though!
 
-#### The semester in general...
+### The semester in general...
 1. Glum
 2. Cold
 3. I don't want to go outside
