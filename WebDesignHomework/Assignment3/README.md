@@ -12,4 +12,4 @@ It's going fine, When I make time to look at the material I find that the *infor
 
 [Hopefully Sam's Prediction is Correct](https://www.waff.com/2025/01/31/sand-mountain-sam-predicts-an-early-spring-2025/)
 
-![Sam](./img/sam.jpg)
+![Sam's Picture](https://github.com/Chloe-Kujawa/MART341-WebDesign/blob/main/WebDesignHomework/Assignment3/sam.jpg)
