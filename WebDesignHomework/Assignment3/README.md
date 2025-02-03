@@ -1,15 +1,11 @@
-# <h1> Assignment - 3
-## <h2> How's the course going for you so far? The semester?
+# Here's this part
+## and this part...
 
-It's going fine, When I make time to look at the material I find that the *information is interesting*, but the information starts to *blur together* after a while so I try to take frequent breaks. I also found it hard to remember when to do my work when it's *not in my Canvas Dashboard*. I was also *behind on my quizzes* which I'm sorry about, I finally caught up though!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### The semester in general...
-1. **Glum**
-2. **Cold**
-3. **I don't want to go outside**
 
-   - I want **SPRING**!
+Here's some links...
 
-[Hopefully Sam's Prediction is Correct](https://www.waff.com/2025/01/31/sand-mountain-sam-predicts-an-early-spring-2025/)
+[Response](./responses.txt)
 
-![Sam's Picture](https://github.com/Chloe-Kujawa/MART341-WebDesign/blob/main/WebDesignHomework/Assignment3/images/sam.jpg)
+[Screenshot](./images/Screenshot.png)
