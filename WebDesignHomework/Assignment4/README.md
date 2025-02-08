@@ -6,3 +6,5 @@
    -
 ### 3. What’s the purpose of the index.html page, and where should it be placed?
    -
+https://montana-media-arts.github.io/MART341WebDesign//topic-03/dom-breakdown/
+https://canvas.umt.edu/courses/15695/assignments/232405?module_item_id=1200445
