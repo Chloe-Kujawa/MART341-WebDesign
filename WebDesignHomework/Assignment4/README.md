@@ -6,3 +6,5 @@
    - The four essential elements for every HTML page are a Doctype, Head, Body, and HTML/root.
 ### 3. What’s the purpose of the index.html page, and where should it be placed?
    - It's the master HTML file, It's usually the homepage or the first page you see.
+
+https://montana-media-arts.github.io/MART341WebDesign/topic-03/overview/
