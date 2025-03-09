@@ -1,0 +1,2 @@
+* I'm most proud with how I was able to make the images works, also both the main headers and links center aligned and a different color, and another thing is that the links are a smaller font size. I think it looks really nice!
+* I'm doing alright, and everything is working out.
