@@ -1,0 +1,109 @@
+
+.overflow-scroll {
+  overflow: scroll;
+}
+body {
+  color: rgb(226, 52, 110);
+}
+.image-container {
+  float: right;
+  width: 100%;
+  max-width: 750px;
+  min-width:750px;
+  height: 700px;
+  background-color: #ffffff;
+  margin: 100px;
+  overflow: scroll;
+}
+
+.container {
+  float: center;
+  padding: 20px;
+  width: auto;
+  height: 300px;
+  background-color: #ff84ad;
+  margin: 100px;
+}
+
+.container ul {
+  font-size: x-large;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: right;
+}
+
+.smaller-box {
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.788);
+  margin: 100px;
+}
+
+body {
+ font-family: 'Times New Roman', Times, serif;
+ background-color: rgb(250, 212, 220);
+ font-size: 14px;
+ text-align: center;
+ position: relative;
+}
+
+.top-header {
+  text-align: center;
+  color: rgb(207, 111, 132);
+  font-size:50px;
+}
+
+.sub-box {
+  border-width: 10px;
+  border-style: dashed;
+  border-color: #ff8ab1;
+  background-color: rgb(255, 244, 146);
+  width: 500px;
+  height: auto;
+  margin: 80px;
+  padding: 80px;
+  float: left;
+  font-size: 50px;
+}
+
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.top-header {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.top-header:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.top-header:hover .dropbtn {background-color: #3e8e41;}
