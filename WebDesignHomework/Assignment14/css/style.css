@@ -1,0 +1,19 @@
+
+
+body {
+   background-color: rgb(251, 237, 199);
+   font-family: Helvetica, sans-serif;
+
+}
+
+/* Text Styling: */
+h1, .materials-list {
+   color: rgb(45, 1, 26);
+   font-family: CalSans;
+}
+
+.myCanvas {
+   width:  100%;
+   height: 100%;
+   margin: 0;
+}
